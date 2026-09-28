@@ -1,0 +1,3 @@
+data/raw/*.csv
+*.duckdb
+.DS_Store

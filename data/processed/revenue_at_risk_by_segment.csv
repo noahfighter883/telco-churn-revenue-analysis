@@ -1,0 +1,33 @@
+contract,internet_service,payment_method,active_customers,active_mrr,historical_churn_rate_pct,projected_mrr_at_risk,projected_annual_revenue_at_risk
+Month-to-month,Fiber optic,Electronic check,518,45666.6,60.4,27567.67,330812.06
+Month-to-month,Fiber optic,Bank transfer (automatic),178,15796.9,45.6,7197.98,86375.71
+Month-to-month,Fiber optic,Credit card (automatic),171,15042.7,41.6,6263.51,75162.16
+Month-to-month,DSL,Electronic check,282,14566.0,40.5,5900.15,70801.82
+Month-to-month,Fiber optic,Mailed check,99,8192.9,50.7,4157.59,49891.09
+Month-to-month,DSL,Mailed check,254,12632.0,30.8,3889.42,46673.0
+One year,Fiber optic,Electronic check,145,14285.85,26.0,3717.24,44606.84
+Month-to-month,DSL,Credit card (automatic),135,7176.05,27.0,1939.47,23273.68
+One year,Fiber optic,Bank transfer (automatic),134,13069.0,14.6,1914.57,22974.8
+One year,Fiber optic,Credit card (automatic),127,12482.35,15.3,1913.96,22967.52
+Month-to-month,DSL,Bank transfer (automatic),158,8677.15,19.8,1717.81,20613.74
+Two year,Fiber optic,Bank transfer (automatic),147,15343.05,9.3,1420.65,17047.83
+Month-to-month,No,Mailed check,258,5253.4,20.6,1083.01,12996.1
+One year,DSL,Credit card (automatic),155,9457.45,9.9,934.75,11216.98
+Two year,Fiber optic,Electronic check,83,8747.6,9.8,855.74,10268.92
+One year,DSL,Mailed check,123,7168.55,10.2,732.55,8790.63
+One year,DSL,Bank transfer (automatic),134,8395.2,7.6,636.88,7642.53
+One year,DSL,Electronic check,105,6618.7,9.5,627.64,7531.62
+Two year,Fiber optic,Credit card (automatic),148,15413.95,3.9,600.54,7206.52
+Two year,DSL,Credit card (automatic),232,16822.4,2.1,354.9,4258.84
+Two year,DSL,Electronic check,54,3878.25,6.9,267.47,3209.59
+Month-to-month,No,Electronic check,56,1182.35,18.8,222.76,2673.14
+Month-to-month,No,Bank transfer (automatic),52,1065.3,20.0,213.06,2556.72
+Two year,DSL,Bank transfer (automatic),221,15597.45,1.3,208.89,2506.73
+Month-to-month,No,Credit card (automatic),59,1195.7,9.2,110.37,1324.47
+One year,No,Bank transfer (automatic),85,1794.95,4.5,80.67,968.06
+Two year,No,Credit card (automatic),188,4126.1,1.1,43.43,521.19
+Two year,No,Mailed check,250,5343.6,0.8,42.41,508.91
+One year,No,Mailed check,162,3309.85,1.2,40.36,484.37
+Two year,No,Bank transfer (automatic),177,3914.55,0.6,21.99,263.9
+One year,No,Credit card (automatic),75,1568.55,1.3,20.64,247.67
+Two year,DSL,Mailed check,109,7146.95,0.0,0.0,0.0
