@@ -1,0 +1,301 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+1285-SAMPL,Female,0,No,Yes,60,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,49.09,2950.28,No
+1293-SAMPL,Male,0,Yes,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),104.92,209.75,Yes
+1209-SAMPL,Male,1,Yes,No,2,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),114.84,232.48,Yes
+1259-SAMPL,Male,1,No,No,12,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Two year,No,Electronic check,80.59,966.72,No
+1254-SAMPL,Female,1,Yes,No,3,No,No phone service,Fiber optic,Yes,No,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),94.52,279.84,No
+1117-SAMPL,Male,1,Yes,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,51.47,103.14,Yes
+1131-SAMPL,Male,1,No,No,24,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),66.55,1598.57,No
+1184-SAMPL,Female,0,No,Yes,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),108.22,216.37,No
+1098-SAMPL,Male,0,No,Yes,2,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),107.55,217.9,No
+1212-SAMPL,Male,1,No,Yes,30,No,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,Two year,No,Bank transfer (automatic),20.94,630.04,No
+1200-SAMPL,Male,1,Yes,Yes,48,No,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,44.38,2133.32,No
+1171-SAMPL,Female,1,No,No,60,Yes,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,96.55,5789.09,Yes
+1111-SAMPL,Male,0,Yes,Yes,24,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),89.01,2132.61,No
+1222-SAMPL,Male,1,Yes,Yes,30,No,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Mailed check,106.62,3202.2,No
+1115-SAMPL,Male,1,No,Yes,3,Yes,No phone service,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),63.57,188.38,No
+1205-SAMPL,Male,0,Yes,Yes,0,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),41.3,,No
+1078-SAMPL,Female,0,Yes,No,30,No,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Two year,No,Bank transfer (automatic),23.73,711.97,No
+1225-SAMPL,Female,1,Yes,Yes,24,Yes,No phone service,DSL,No,No,Yes,No,No,No,One year,Yes,Credit card (automatic),102.02,2453.29,Yes
+1229-SAMPL,Male,1,No,Yes,60,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),99.34,5960.86,No
+1024-SAMPL,Female,1,No,No,30,No,No phone service,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,50.02,1504.08,No
+1046-SAMPL,Male,1,No,No,2,No,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,119.69,238.74,No
+1070-SAMPL,Male,1,Yes,Yes,72,No,No phone service,DSL,No,No,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),75.22,5418.51,No
+1230-SAMPL,Female,0,No,Yes,24,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),73.85,1768.25,No
+1176-SAMPL,Male,0,No,No,36,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,48.1,1730.72,No
+1104-SAMPL,Female,0,Yes,Yes,8,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,74.43,591.18,No
+1199-SAMPL,Female,1,No,Yes,48,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Two year,No,Mailed check,20.6,988.77,No
+1298-SAMPL,Male,0,Yes,Yes,18,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,27.2,487.84,No
+1038-SAMPL,Female,1,No,No,1,No,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,48.01,47.05,Yes
+1051-SAMPL,Male,1,Yes,No,18,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,113.15,2040.4,No
+1263-SAMPL,Male,1,Yes,Yes,60,Yes,No,Fiber optic,No,No,Yes,No,No,No,One year,Yes,Mailed check,27.13,1625.88,No
+1174-SAMPL,Male,0,No,Yes,30,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,77.78,2337.57,Yes
+1142-SAMPL,Male,0,Yes,No,8,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,119.77,957.99,No
+1022-SAMPL,Male,1,No,No,3,No,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,20.41,58.16,Yes
+1109-SAMPL,Female,0,No,No,30,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),67.39,2026.27,No
+1264-SAMPL,Female,1,Yes,Yes,60,No,No,Fiber optic,Yes,No,Yes,No,Yes,No,One year,No,Mailed check,18.74,1123.14,No
+1169-SAMPL,Female,0,Yes,Yes,12,No,No phone service,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,68.19,813.88,No
+1016-SAMPL,Male,1,Yes,No,36,No,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,77.53,2791.31,No
+1168-SAMPL,Female,0,No,Yes,2,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,18.65,36.4,No
+1272-SAMPL,Male,0,No,No,48,No,No,DSL,Yes,Yes,Yes,No,No,No,One year,No,Credit card (automatic),62.63,3004.19,No
+1273-SAMPL,Male,1,Yes,No,48,Yes,No phone service,DSL,No,Yes,No,No,No,No,One year,Yes,Credit card (automatic),36.92,1767.35,No
+1291-SAMPL,Female,1,No,No,2,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,50.39,104.58,No
+1061-SAMPL,Female,1,No,Yes,1,No,No phone service,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),27.91,31.78,Yes
+1049-SAMPL,Male,1,No,No,72,No,No,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,111.12,8000.25,Yes
+1114-SAMPL,Male,0,No,No,0,No,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,Two year,Yes,Mailed check,93.14,,No
+1223-SAMPL,Female,0,Yes,Yes,2,No,No phone service,Fiber optic,Yes,No,No,No,Yes,No,One year,Yes,Bank transfer (automatic),34.41,72.28,Yes
+1206-SAMPL,Male,0,Yes,No,12,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,63.32,756.08,No
+1201-SAMPL,Female,0,Yes,No,72,No,No,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,No,Electronic check,82.71,5955.92,No
+1033-SAMPL,Male,1,Yes,Yes,3,No,No phone service,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,38.33,110.19,Yes
+1036-SAMPL,Male,1,No,Yes,72,No,No phone service,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,92.56,6662.0,No
+1069-SAMPL,Female,0,Yes,No,8,No,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),28.57,228.63,No
+1129-SAMPL,Male,0,No,No,36,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),67.76,2434.43,No
+1152-SAMPL,Male,0,No,Yes,5,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),76.42,386.62,No
+1274-SAMPL,Male,0,Yes,No,0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,103.19,,Yes
+1011-SAMPL,Male,1,No,Yes,1,Yes,No phone service,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,110.35,113.95,Yes
+1252-SAMPL,Male,0,Yes,No,48,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Mailed check,87.68,4212.74,No
+1063-SAMPL,Male,1,Yes,Yes,1,No,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,102.64,103.18,No
+1137-SAMPL,Female,1,No,Yes,8,No,No,DSL,Yes,No,No,Yes,No,No,One year,No,Credit card (automatic),103.84,829.52,No
+1284-SAMPL,Male,0,No,No,3,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,25.31,78.7,No
+1283-SAMPL,Female,1,Yes,No,8,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Mailed check,26.42,212.07,Yes
+1084-SAMPL,Female,0,No,No,2,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),101.32,205.65,Yes
+1021-SAMPL,Male,1,Yes,Yes,2,No,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,93.13,184.58,No
+1211-SAMPL,Female,1,No,Yes,1,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,One year,Yes,Mailed check,58.88,63.5,No
+1180-SAMPL,Male,1,Yes,No,24,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,No,Two year,No,Electronic check,66.75,1600.32,No
+1037-SAMPL,Female,0,Yes,Yes,3,Yes,No phone service,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,54.19,160.15,Yes
+1099-SAMPL,Female,0,Yes,Yes,5,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Electronic check,38.02,194.66,No
+1108-SAMPL,Female,0,Yes,Yes,2,No,No phone service,Fiber optic,No,No,No,Yes,No,No,One year,No,Credit card (automatic),60.12,117.28,No
+1093-SAMPL,Female,0,Yes,No,48,No,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,106.74,5122.05,No
+1089-SAMPL,Female,0,No,Yes,36,Yes,No phone service,Fiber optic,No,Yes,Yes,No,No,Yes,One year,No,Electronic check,57.46,2067.29,No
+1251-SAMPL,Male,1,Yes,No,60,Yes,No,DSL,No,Yes,Yes,No,No,No,Two year,Yes,Mailed check,50.2,3016.55,No
+1268-SAMPL,Male,1,No,No,3,No,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,65.01,197.74,No
+1080-SAMPL,Female,1,No,Yes,60,No,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,One year,No,Electronic check,82.35,4939.35,No
+1175-SAMPL,Female,0,No,No,2,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,112.26,223.85,No
+1014-SAMPL,Female,1,No,No,12,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,18.22,217.54,No
+1183-SAMPL,Female,1,Yes,No,2,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),82.89,170.41,No
+1295-SAMPL,Male,0,No,No,48,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),49.92,2397.28,No
+1257-SAMPL,Male,1,Yes,Yes,60,Yes,Yes,DSL,No,No,Yes,No,No,No,One year,No,Bank transfer (automatic),67.64,4055.91,No
+1278-SAMPL,Female,1,No,No,24,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),52.43,1254.9,No
+1149-SAMPL,Female,0,Yes,Yes,12,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,No,Credit card (automatic),87.84,1053.24,No
+1006-SAMPL,Female,1,No,No,36,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,64.8,2330.45,Yes
+1096-SAMPL,Female,1,Yes,No,48,No,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,63.4,3039.08,No
+1203-SAMPL,Male,1,Yes,Yes,12,Yes,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,No,Credit card (automatic),18.48,222.1,No
+1213-SAMPL,Female,0,Yes,Yes,12,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,85.49,1023.37,No
+1190-SAMPL,Female,1,No,No,8,No,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),110.9,891.34,Yes
+1165-SAMPL,Male,1,No,No,0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,105.59,,Yes
+1059-SAMPL,Male,0,Yes,No,48,No,Yes,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,106.78,5128.48,Yes
+1228-SAMPL,Female,0,No,No,60,Yes,No,DSL,No,No,No,Yes,No,Yes,Two year,Yes,Electronic check,94.09,5640.86,No
+1027-SAMPL,Male,1,Yes,Yes,3,No,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,33.05,101.03,No
+1140-SAMPL,Male,0,Yes,No,24,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),21.75,526.68,No
+1237-SAMPL,Female,1,No,No,24,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,43.66,1052.57,No
+1224-SAMPL,Male,1,Yes,Yes,60,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,69.52,4170.36,No
+1013-SAMPL,Male,0,Yes,Yes,5,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,65.19,329.69,Yes
+1266-SAMPL,Male,1,Yes,Yes,24,Yes,Yes,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Electronic check,20.26,490.96,No
+1042-SAMPL,Female,1,Yes,Yes,18,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,110.67,1990.03,No
+1208-SAMPL,Female,0,Yes,No,72,Yes,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),71.36,5134.94,No
+1116-SAMPL,Female,1,No,No,30,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),40.53,1220.47,No
+1094-SAMPL,Female,1,No,No,8,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),57.05,457.07,No
+1277-SAMPL,Female,0,No,No,30,No,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,81.78,2450.19,No
+1044-SAMPL,Male,0,Yes,Yes,24,No,No phone service,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,40.93,978.81,Yes
+1025-SAMPL,Female,1,No,No,12,No,No phone service,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,73.89,881.68,Yes
+1020-SAMPL,Male,1,Yes,Yes,0,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,49.44,,No
+1105-SAMPL,Male,0,No,No,3,No,Yes,Fiber optic,Yes,No,No,Yes,No,No,Two year,No,Mailed check,79.45,237.36,Yes
+1062-SAMPL,Female,0,No,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,54.99,3964.09,No
+1103-SAMPL,Female,1,Yes,Yes,3,No,Yes,Fiber optic,No,No,No,No,Yes,No,Two year,Yes,Mailed check,77.5,227.99,No
+1292-SAMPL,Male,1,Yes,No,30,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),75.84,2272.51,No
+1065-SAMPL,Female,1,Yes,Yes,18,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,69.39,1253.47,Yes
+1057-SAMPL,Male,1,No,Yes,5,No,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,18.83,97.8,No
+1125-SAMPL,Male,1,Yes,No,48,No,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,119.96,5757.87,No
+1275-SAMPL,Male,1,Yes,Yes,36,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),67.97,2448.16,No
+1133-SAMPL,Female,1,Yes,No,3,No,No,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),103.54,309.03,No
+1197-SAMPL,Male,1,No,No,12,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Two year,No,Bank transfer (automatic),109.34,1315.6,No
+1101-SAMPL,Female,1,Yes,No,8,Yes,No,Fiber optic,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,105.87,845.15,No
+1121-SAMPL,Male,0,Yes,No,1,No,Yes,DSL,Yes,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,78.58,78.04,No
+1151-SAMPL,Male,0,Yes,No,5,No,Yes,DSL,Yes,Yes,Yes,Yes,No,No,One year,Yes,Credit card (automatic),53.55,270.92,No
+1236-SAMPL,Female,1,No,No,3,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),22.37,64.18,No
+1294-SAMPL,Female,1,No,No,60,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,38.87,2328.97,No
+1068-SAMPL,Female,0,No,No,60,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),31.27,1871.8,No
+1241-SAMPL,Female,0,No,No,60,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Mailed check,77.43,4648.47,No
+1139-SAMPL,Female,1,Yes,No,18,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,Two year,No,Mailed check,99.36,1791.79,Yes
+1194-SAMPL,Female,0,Yes,Yes,24,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Electronic check,98.73,2365.18,No
+1058-SAMPL,Male,1,No,No,0,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,No,Electronic check,77.12,,No
+1132-SAMPL,Male,1,Yes,No,2,Yes,No phone service,Fiber optic,Yes,No,No,No,Yes,Yes,Two year,No,Electronic check,112.73,223.6,No
+1198-SAMPL,Female,0,Yes,Yes,72,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),46.24,3330.84,No
+1113-SAMPL,Male,1,No,No,0,No,Yes,DSL,No,No,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),18.95,,No
+1064-SAMPL,Male,1,Yes,Yes,1,No,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,85.43,80.69,Yes
+1192-SAMPL,Female,1,No,No,5,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),109.5,542.7,No
+1053-SAMPL,Female,1,Yes,Yes,72,Yes,No phone service,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,51.51,3710.46,No
+1159-SAMPL,Male,0,No,Yes,30,Yes,No phone service,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,No,Electronic check,92.46,2772.32,No
+1009-SAMPL,Male,0,No,Yes,0,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,42.57,,No
+1240-SAMPL,Female,0,Yes,No,30,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),116.86,3507.18,No
+1245-SAMPL,Female,1,No,Yes,2,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Credit card (automatic),55.76,112.07,No
+1173-SAMPL,Male,0,Yes,Yes,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,65.13,68.17,Yes
+1265-SAMPL,Male,1,No,No,12,No,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),37.18,441.84,Yes
+1100-SAMPL,Female,1,Yes,No,18,No,No,Fiber optic,Yes,Yes,Yes,No,No,No,Two year,No,Electronic check,108.68,1956.7,No
+1043-SAMPL,Female,0,Yes,No,2,No,No phone service,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,18.27,36.05,No
+1097-SAMPL,Male,0,Yes,No,24,No,No phone service,DSL,No,No,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),76.37,1832.55,No
+1163-SAMPL,Female,0,No,Yes,48,No,No phone service,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,No,Mailed check,19.16,919.64,No
+1167-SAMPL,Female,1,Yes,No,1,Yes,No,DSL,Yes,No,No,Yes,No,No,Two year,No,Credit card (automatic),107.45,111.11,No
+1072-SAMPL,Male,1,No,Yes,18,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),79.92,1437.7,No
+1039-SAMPL,Male,0,Yes,No,8,No,No phone service,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,30.19,241.88,No
+1279-SAMPL,Female,1,No,No,30,No,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,No,Mailed check,73.65,2208.25,No
+1220-SAMPL,Female,0,Yes,Yes,36,No,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,No,Credit card (automatic),94.28,3397.49,No
+1267-SAMPL,Female,1,Yes,No,8,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,One year,No,Electronic check,26.18,211.95,Yes
+1196-SAMPL,Male,0,No,No,72,Yes,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Mailed check,76.37,5503.29,No
+1005-SAMPL,Female,0,Yes,Yes,5,No,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,118.93,596.05,No
+1232-SAMPL,Female,0,No,No,3,No,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,50.41,150.74,No
+1289-SAMPL,Female,0,No,No,8,Yes,No phone service,DSL,No,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,87.8,700.95,No
+1081-SAMPL,Male,1,No,Yes,72,No,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),31.03,2236.19,No
+1217-SAMPL,Female,0,Yes,No,72,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,One year,Yes,Credit card (automatic),97.7,7036.57,Yes
+1300-SAMPL,Female,1,Yes,Yes,60,Yes,Yes,DSL,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,90.63,5437.0,No
+1215-SAMPL,Male,1,Yes,No,1,No,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,59.15,54.51,No
+1256-SAMPL,Male,0,No,Yes,72,No,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),58.86,4237.43,No
+1193-SAMPL,Male,0,No,Yes,60,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),102.23,6131.49,No
+1119-SAMPL,Female,1,No,No,12,No,No,DSL,Yes,Yes,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),36.36,432.67,No
+1172-SAMPL,Female,0,Yes,Yes,72,No,No,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),89.88,6472.39,No
+1138-SAMPL,Female,1,Yes,Yes,30,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),97.76,2931.06,No
+1118-SAMPL,Male,1,No,Yes,30,Yes,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,Two year,Yes,Credit card (automatic),23.89,716.32,No
+1040-SAMPL,Male,1,Yes,No,5,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,19.44,97.54,Yes
+1235-SAMPL,Male,0,No,Yes,12,Yes,No phone service,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,55.11,656.43,No
+1255-SAMPL,Male,1,Yes,No,30,No,No phone service,DSL,No,No,Yes,No,No,Yes,Two year,No,Credit card (automatic),28.28,847.02,No
+1010-SAMPL,Female,0,Yes,Yes,12,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,119.51,1435.62,Yes
+1299-SAMPL,Female,1,Yes,Yes,48,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),98.69,4737.24,No
+1123-SAMPL,Female,0,No,No,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),104.63,311.9,No
+1087-SAMPL,Male,1,No,Yes,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),97.17,94.55,Yes
+1250-SAMPL,Female,0,No,Yes,60,No,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),42.81,2567.0,No
+1204-SAMPL,Female,1,No,Yes,2,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),24.66,44.78,No
+1276-SAMPL,Female,0,No,Yes,8,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,74.92,603.74,No
+1008-SAMPL,Male,0,No,Yes,24,Yes,No phone service,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,111.09,2669.87,Yes
+1261-SAMPL,Female,0,Yes,No,3,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,35.02,101.09,Yes
+1270-SAMPL,Female,0,No,Yes,12,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,98.49,1176.97,Yes
+1102-SAMPL,Male,1,No,Yes,12,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),106.14,1272.86,No
+1088-SAMPL,Male,1,Yes,Yes,48,No,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,32.64,1566.01,No
+1191-SAMPL,Female,1,No,Yes,72,Yes,No,DSL,No,Yes,No,Yes,No,No,Two year,Yes,Bank transfer (automatic),72.63,5227.8,No
+1030-SAMPL,Male,1,No,Yes,0,No,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,39.1,,Yes
+1002-SAMPL,Male,1,No,No,18,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,78.11,1409.07,Yes
+1271-SAMPL,Female,1,Yes,Yes,2,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,67.76,133.69,No
+1141-SAMPL,Male,1,Yes,Yes,60,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),51.82,3112.16,Yes
+1130-SAMPL,Female,1,No,Yes,24,No,No,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,33.19,793.48,No
+1077-SAMPL,Female,1,Yes,No,36,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),112.26,4042.0,No
+1079-SAMPL,Female,0,Yes,Yes,0,Yes,No phone service,Fiber optic,No,No,Yes,No,No,No,Two year,No,Mailed check,63.95,,No
+1018-SAMPL,Female,0,No,Yes,1,No,No phone service,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,108.75,111.17,Yes
+1066-SAMPL,Male,0,Yes,No,48,No,No,DSL,No,No,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),110.79,5313.65,Yes
+1073-SAMPL,Male,0,Yes,No,0,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),40.49,,No
+1296-SAMPL,Female,1,No,No,24,No,Yes,DSL,No,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),96.05,2309.83,No
+1052-SAMPL,Female,0,No,Yes,24,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,116.47,2793.6,Yes
+1188-SAMPL,Male,1,Yes,Yes,0,Yes,Yes,DSL,No,No,Yes,Yes,No,No,One year,No,Credit card (automatic),44.86,,No
+1003-SAMPL,Male,1,Yes,No,30,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,44.98,1344.83,Yes
+1055-SAMPL,Male,1,No,No,30,No,No phone service,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,87.68,2630.38,No
+1164-SAMPL,Male,1,Yes,No,18,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,64.43,1158.34,No
+1144-SAMPL,Female,1,Yes,No,48,Yes,Yes,DSL,No,No,Yes,Yes,No,No,Two year,No,Mailed check,42.88,2054.98,No
+1090-SAMPL,Male,1,Yes,Yes,60,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Two year,Yes,Mailed check,31.75,1907.16,No
+1086-SAMPL,Male,0,No,No,1,Yes,No phone service,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),103.6,105.1,No
+1012-SAMPL,Male,0,Yes,No,36,No,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,61.97,2230.16,Yes
+1248-SAMPL,Female,1,Yes,Yes,2,Yes,Yes,DSL,No,No,No,No,Yes,Yes,One year,No,Electronic check,26.86,51.48,No
+1287-SAMPL,Male,0,No,No,60,No,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,No,Mailed check,89.05,5340.71,No
+1226-SAMPL,Male,0,Yes,Yes,18,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),22.47,408.44,No
+1297-SAMPL,Male,1,No,No,2,No,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,97.43,199.24,No
+1262-SAMPL,Male,1,No,No,36,No,No phone service,Fiber optic,No,No,Yes,Yes,No,No,Two year,No,Credit card (automatic),30.89,1112.31,No
+1231-SAMPL,Female,0,No,Yes,1,No,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Two year,Yes,Mailed check,36.5,39.5,No
+1161-SAMPL,Female,1,No,No,0,No,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,112.1,,No
+1120-SAMPL,Female,1,Yes,Yes,60,No,No,DSL,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Electronic check,20.32,1217.18,No
+1007-SAMPL,Female,0,Yes,No,30,No,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,24.48,733.22,No
+1031-SAMPL,Female,0,No,Yes,18,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,20.96,375.64,No
+1001-SAMPL,Male,0,Yes,No,36,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,29.36,1059.38,Yes
+1050-SAMPL,Female,1,Yes,No,72,No,No phone service,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,25.12,1811.37,No
+1280-SAMPL,Female,0,Yes,Yes,0,No,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),96.7,,No
+1182-SAMPL,Female,0,Yes,No,72,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),119.42,8602.89,Yes
+1060-SAMPL,Male,1,Yes,No,30,Yes,No phone service,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,56.86,1707.19,Yes
+1243-SAMPL,Female,1,No,Yes,72,No,Yes,Fiber optic,No,No,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),22.43,1615.26,No
+1047-SAMPL,Female,1,Yes,No,72,Yes,No phone service,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,95.57,6876.41,Yes
+1207-SAMPL,Male,0,No,Yes,30,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),79.77,2389.47,No
+1127-SAMPL,Female,1,No,No,8,No,Yes,DSL,No,Yes,Yes,No,Yes,Yes,One year,Yes,Mailed check,41.46,332.38,No
+1216-SAMPL,Female,1,Yes,Yes,0,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,52.82,,No
+1238-SAMPL,Male,0,Yes,No,2,Yes,No phone service,DSL,Yes,No,No,Yes,No,No,Two year,No,Credit card (automatic),41.46,83.07,No
+1239-SAMPL,Male,0,Yes,Yes,36,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,103.0,3703.22,Yes
+1134-SAMPL,Male,1,No,No,48,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Two year,Yes,Mailed check,25.5,1221.68,No
+1128-SAMPL,Male,0,Yes,Yes,60,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,18.65,1115.37,No
+1145-SAMPL,Male,0,No,No,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,46.39,141.21,No
+1158-SAMPL,Male,0,Yes,Yes,5,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),31.99,162.68,No
+1258-SAMPL,Male,0,No,No,8,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),20.02,156.37,No
+1269-SAMPL,Male,0,Yes,Yes,5,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,67.09,333.44,No
+1160-SAMPL,Male,0,No,No,18,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Two year,Yes,Mailed check,57.36,1029.89,No
+1148-SAMPL,Male,0,No,No,30,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),32.06,960.64,No
+1247-SAMPL,Female,0,Yes,No,48,No,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,57.2,2750.44,No
+1067-SAMPL,Female,1,No,No,8,No,Yes,DSL,No,Yes,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),102.4,818.19,No
+1082-SAMPL,Male,1,Yes,No,72,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),98.39,7084.16,No
+1218-SAMPL,Female,1,No,Yes,48,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,101.15,4851.24,No
+1156-SAMPL,Male,1,No,Yes,5,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),26.41,133.7,No
+1110-SAMPL,Male,1,No,No,24,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,One year,No,Bank transfer (automatic),113.24,2720.71,No
+1074-SAMPL,Male,1,Yes,No,0,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,No,One year,No,Electronic check,68.73,,No
+1181-SAMPL,Female,1,No,Yes,5,No,Yes,DSL,Yes,No,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),50.91,259.31,No
+1202-SAMPL,Female,0,Yes,No,60,No,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Mailed check,26.24,1572.73,No
+1155-SAMPL,Female,0,Yes,Yes,36,No,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),95.75,3442.46,No
+1177-SAMPL,Female,1,No,No,36,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,119.4,4298.84,Yes
+1186-SAMPL,Female,1,No,Yes,3,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,59.75,179.79,No
+1124-SAMPL,Male,0,No,No,36,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),26.07,938.02,No
+1023-SAMPL,Male,1,Yes,No,8,Yes,No phone service,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,92.31,736.62,No
+1136-SAMPL,Female,1,No,No,5,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),45.38,223.36,No
+1162-SAMPL,Male,1,No,Yes,30,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),82.7,2484.35,No
+1187-SAMPL,Male,1,Yes,No,3,No,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,No,Credit card (automatic),27.89,80.74,No
+1147-SAMPL,Male,1,Yes,Yes,30,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),78.2,2347.72,No
+1028-SAMPL,Female,0,No,No,30,No,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,101.13,3037.82,Yes
+1015-SAMPL,Male,0,Yes,Yes,30,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,66.63,2003.09,No
+1157-SAMPL,Female,0,Yes,No,3,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Electronic check,66.63,196.22,No
+1246-SAMPL,Male,1,No,Yes,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,57.69,116.74,No
+1282-SAMPL,Male,1,Yes,No,36,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,97.3,3501.62,No
+1054-SAMPL,Male,1,No,No,2,No,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,88.79,181.61,Yes
+1249-SAMPL,Female,1,Yes,No,5,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,35.85,179.31,No
+1106-SAMPL,Female,0,No,No,48,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),75.42,3619.91,Yes
+1135-SAMPL,Male,1,Yes,No,18,No,Yes,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),74.81,1346.7,Yes
+1085-SAMPL,Male,0,No,No,5,Yes,No,DSL,Yes,No,No,Yes,No,Yes,One year,No,Mailed check,63.83,319.28,No
+1071-SAMPL,Female,0,No,No,1,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,94.1,91.25,No
+1221-SAMPL,Male,0,No,Yes,3,No,No phone service,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),94.87,279.93,No
+1178-SAMPL,Female,0,No,No,0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,No,Mailed check,50.53,,No
+1032-SAMPL,Female,1,No,No,5,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,56.67,280.47,Yes
+1260-SAMPL,Female,1,Yes,Yes,5,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),108.54,545.51,No
+1242-SAMPL,Male,0,No,Yes,2,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,66.54,134.23,Yes
+1150-SAMPL,Female,0,No,Yes,30,No,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,29.65,892.25,No
+1034-SAMPL,Female,1,Yes,Yes,30,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,20.62,616.72,No
+1219-SAMPL,Female,1,Yes,Yes,2,Yes,No phone service,Fiber optic,No,No,Yes,Yes,No,Yes,One year,No,Mailed check,60.1,122.2,No
+1035-SAMPL,Female,0,No,No,24,No,No phone service,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,No,Electronic check,84.05,2012.33,Yes
+1195-SAMPL,Male,1,No,No,24,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,One year,Yes,Credit card (automatic),58.49,1407.99,No
+1189-SAMPL,Male,0,No,Yes,5,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),26.05,134.28,No
+1166-SAMPL,Female,0,No,Yes,3,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),50.82,151.62,No
+1154-SAMPL,Female,1,Yes,No,72,Yes,No,Fiber optic,Yes,No,No,No,No,No,One year,Yes,Electronic check,96.96,6983.45,No
+1048-SAMPL,Female,1,No,Yes,60,Yes,No phone service,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,23.26,1393.27,Yes
+1290-SAMPL,Female,1,Yes,Yes,12,Yes,No phone service,Fiber optic,Yes,Yes,No,Yes,No,Yes,Two year,Yes,Mailed check,42.52,506.77,No
+1185-SAMPL,Female,0,Yes,Yes,8,No,No phone service,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,44.64,353.17,No
+1234-SAMPL,Male,0,No,Yes,48,Yes,No phone service,DSL,No,No,Yes,No,No,Yes,Two year,No,Bank transfer (automatic),108.41,5199.44,Yes
+1091-SAMPL,Female,1,No,No,72,No,Yes,Fiber optic,No,No,No,No,Yes,No,One year,Yes,Electronic check,84.88,6109.09,No
+1146-SAMPL,Female,0,No,No,24,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),116.52,2794.61,No
+1083-SAMPL,Female,1,Yes,No,60,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),94.35,5660.49,No
+1092-SAMPL,Female,1,No,No,24,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,47.96,1147.07,No
+1214-SAMPL,Male,0,No,No,60,Yes,Yes,DSL,No,No,No,Yes,No,No,One year,No,Electronic check,68.15,4086.41,No
+1056-SAMPL,Female,1,Yes,No,30,No,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,No,Electronic check,48.51,1459.92,No
+1288-SAMPL,Male,0,Yes,No,2,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,38.29,81.25,No
+1045-SAMPL,Female,1,No,Yes,24,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,73.08,1753.3,No
+1170-SAMPL,Female,1,No,No,12,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,85.57,1023.15,No
+1153-SAMPL,Female,1,Yes,No,2,No,No,DSL,No,Yes,Yes,No,No,No,Two year,No,Mailed check,90.56,184.4,No
+1017-SAMPL,Female,0,Yes,No,1,No,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,72.84,72.9,Yes
+1075-SAMPL,Female,1,Yes,No,5,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Two year,Yes,Credit card (automatic),29.75,143.96,No
+1019-SAMPL,Female,0,No,No,0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,52.02,,Yes
+1179-SAMPL,Male,1,Yes,Yes,3,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Mailed check,78.44,238.38,No
+1029-SAMPL,Male,0,Yes,No,3,Yes,No phone service,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,45.71,135.33,No
+1076-SAMPL,Female,1,Yes,Yes,24,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,82.59,1982.47,No
+1095-SAMPL,Male,1,No,Yes,8,No,No,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Credit card (automatic),84.26,671.58,Yes
+1026-SAMPL,Male,0,Yes,Yes,72,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,No,Electronic check,115.1,8284.55,Yes
+1107-SAMPL,Female,0,Yes,Yes,48,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,23.24,1115.32,No
+1286-SAMPL,Female,0,Yes,Yes,48,No,No phone service,DSL,No,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),100.04,4799.97,No
+1143-SAMPL,Female,0,No,Yes,8,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),66.57,531.94,No
+1281-SAMPL,Female,0,No,Yes,30,No,Yes,DSL,No,Yes,Yes,No,No,No,One year,No,Credit card (automatic),111.62,3350.94,No
+1126-SAMPL,Female,0,Yes,Yes,60,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),103.65,6223.14,No
+1004-SAMPL,Female,0,No,No,72,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,28.3,2035.38,No
+1041-SAMPL,Female,1,Yes,Yes,5,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,113.99,569.73,No
+1227-SAMPL,Female,0,Yes,No,0,No,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),26.93,,Yes
+1210-SAMPL,Female,1,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,22.02,1583.35,No
+1233-SAMPL,Male,1,No,No,48,No,No,DSL,No,No,Yes,Yes,Yes,No,One year,Yes,Mailed check,93.46,4485.44,No
+1244-SAMPL,Male,1,No,No,30,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,71.3,2139.2,No
+1112-SAMPL,Male,1,No,No,36,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),113.37,4085.1,No
+1122-SAMPL,Male,1,No,Yes,36,No,No phone service,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Mailed check,71.17,2561.26,No
+1253-SAMPL,Female,1,No,No,30,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),18.68,563.97,No

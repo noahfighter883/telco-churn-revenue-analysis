@@ -1,0 +1,49 @@
+name: SQL pipeline CI
+
+# Runs the analysis pipeline on every push/PR against a small synthetic
+# fixture (data/sample/), since the real Kaggle data isn't committed to
+# this repo (see data/README.md). This is a regression test for the SQL
+# itself -- does every step still run end-to-end without errors -- not a
+# check that the fixture produces the same numbers as the real dataset.
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Install DuckDB CLI
+        run: |
+          curl https://install.duckdb.org | sh
+          DUCKDB_BIN=$(find "$HOME/.duckdb" -type f -name duckdb | head -n1)
+          sudo cp "$DUCKDB_BIN" /usr/local/bin/duckdb
+          duckdb --version
+
+      - name: Use the synthetic fixture as raw input
+        run: |
+          mkdir -p data/raw
+          cp data/sample/sample_telco_churn.csv data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+      - name: Run the full pipeline
+        run: ./scripts/run_analysis.sh
+
+      - name: Verify expected outputs exist
+        run: |
+          for f in overview_kpis.csv churn_by_tenure_bucket.csv churn_by_contract.csv \
+                   churn_by_internet_service.csv churn_by_payment_method.csv \
+                   revenue_at_risk_by_segment.csv significance_checks.csv \
+                   retention_roi_scenario.csv; do
+            test -s "data/processed/$f" || (echo "Missing or empty: $f" && exit 1)
+          done
+          echo "All expected output files present and non-empty."
+
+      # Note: sql/02_data_quality_checks.sql includes a check that the row
+      # count matches the real dataset's known size (7,043) -- that check is
+      # EXPECTED to report FAIL here, since this fixture is only 300 rows.
+      # This job gates on the pipeline running successfully, not on every
+      # data-quality check passing against a fixture it wasn't written for.

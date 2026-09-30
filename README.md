@@ -2,6 +2,8 @@
 
 **Business question:** Which customer segments are churning fastest, and how much Monthly Recurring Revenue (MRR) is at risk if we don't intervene?
 
+**30-second version:** [Executive summary](analysis/executive-summary.md)
+
 ## Why this question
 
 Churn is the single biggest lever in a subscription business — losing a customer doesn't just cost one month's revenue, it costs their whole remaining lifetime value. This project doesn't stop at "churn rate is X%." It segments churn by contract type, services, and billing method, then translates the highest-risk segments into **dollar amounts** a retention team could actually prioritize against.
@@ -37,11 +39,18 @@ See [dashboard/README.md](dashboard/README.md) for what it shows and how it was 
 
 ## Findings
 
-Full memo (question → finding → recommendation → caveats): **[analysis/findings.md](analysis/findings.md)**
+- Full memo (question → finding → recommendation → caveats): **[analysis/findings.md](analysis/findings.md)**
+- One-page version: **[analysis/executive-summary.md](analysis/executive-summary.md)**
+
+## CI
+
+[![SQL pipeline CI](https://github.com/noahfighter883/telco-churn-revenue-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/noahfighter883/telco-churn-revenue-analysis/actions/workflows/ci.yml)
+
+Every push runs the full SQL pipeline against a small synthetic fixture (`data/sample/`), since the real Kaggle data isn't committed to this repo. It's a regression test for the SQL itself — catches syntax errors or broken logic before they'd surface on real data. See [.github/workflows/ci.yml](.github/workflows/ci.yml).
 
 ## Tools
 
-DuckDB (SQL engine, no server setup needed), Tableau Public (dashboard).
+DuckDB (SQL engine, no server setup needed), Tableau Public (dashboard), GitHub Actions (CI).
 
 ## Repo structure
 
@@ -49,13 +58,18 @@ DuckDB (SQL engine, no server setup needed), Tableau Public (dashboard).
 data/
   README.md          how to get the raw data
   raw/                gitignored — put the downloaded CSV here
+  sample/             small synthetic fixture used by CI (not real data)
   processed/          small aggregated CSVs, safe to commit, feed the dashboard
 sql/                  numbered analysis queries, run in order
 scripts/
-  run_analysis.sh     runs the SQL files in sequence against a local DuckDB file
+  run_analysis.sh            runs the SQL files in sequence against a local DuckDB file
+  generate_sample_data.py    regenerates the CI fixture in data/sample/
 analysis/
-  findings.md         the write-up: question, finding, recommendation, caveats
+  findings.md              the write-up: question, finding, recommendation, caveats
+  executive-summary.md     one-page version for a 30-second skim
 dashboard/
   README.md           dashboard description + Tableau Public link
   dashboard-screenshot.png
+.github/workflows/
+  ci.yml               runs the pipeline against the sample fixture on every push
 ```
