@@ -21,7 +21,11 @@ Retention spend should go to the month-to-month + fiber optic + electronic-check
 ## Two things worth investigating separately
 
 - **Electronic check correlates with churn across every contract type**, not just month-to-month — worth treating as its own billing-friction problem, separate from contract upsells.
-- **Fiber optic churns 2x higher than DSL** despite being the premium product — worth a service-quality check before assuming it's purely a pricing issue.
+- **Fiber optic churns 2x higher than DSL** despite being the premium product — a multivariate model ruling out price as the driver (monthly charges isn't significant once internet type is controlled for) points toward a service-quality check, not a pricing one.
+
+## Is this just one factor in disguise as three?
+
+No. A logistic regression controlling for contract, internet service, and payment method all at once confirms each is independently associated with churn, not just proxies for the same customer — see [findings.md](findings.md) for the full model.
 
 ## Read more
 

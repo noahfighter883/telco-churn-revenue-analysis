@@ -1,0 +1,11 @@
+variable,coefficient,odds_ratio,p_value,significant_at_0_05
+tenure,-0.0323,0.9682,0.0,True
+C(contract)[T.Month-to-month],1.5594,4.756,0.0,True
+C(internet_service)[T.Fiber optic],0.9074,2.4779,0.0,True
+C(payment_method)[T.Electronic check],0.495,1.6405,0.0,True
+C(internet_service)[T.No],-0.7775,0.4596,0.0,True
+C(contract)[T.One year],0.7902,2.2038,0.0,True
+senior_citizen,0.3441,1.4108,0.0,True
+monthly_charges,0.0041,1.0041,0.1765,False
+C(payment_method)[T.Bank transfer (automatic)],0.0679,1.0702,0.5456,False
+C(payment_method)[T.Mailed check],0.0086,1.0087,0.9394,False

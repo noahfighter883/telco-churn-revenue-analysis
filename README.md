@@ -29,6 +29,19 @@ Run all of it with:
 ./scripts/run_analysis.sh
 ```
 
+## Model (optional follow-up)
+
+The SQL pipeline's significance tests (step 5) are univariate — one factor vs. everyone else, tested in isolation. [scripts/churn_model.py](scripts/churn_model.py) follows up with a multivariate logistic regression that controls for contract, internet service, payment method, tenure, monthly charges, and senior citizen status all at once, to directly test whether those factors are independently real or just proxies for each other. It also validates on a 25% holdout split. Results feed into [analysis/findings.md](analysis/findings.md).
+
+Requires `analytics.duckdb` to already exist (run `./scripts/run_analysis.sh` first), plus Python:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python3 scripts/churn_model.py
+```
+
 ## Dashboard
 
 **Tableau Public:** [Telco Churn & Revenue at Risk](https://public.tableau.com/app/profile/noah.fighter/viz/TelcoChurnRevenueatRisk/Dashboard1)
@@ -50,7 +63,7 @@ Every push runs the full SQL pipeline against a small synthetic fixture (`data/s
 
 ## Tools
 
-DuckDB (SQL engine, no server setup needed), Tableau Public (dashboard), GitHub Actions (CI).
+DuckDB (SQL engine, no server setup needed), Python (statsmodels/scikit-learn, optional multivariate follow-up), Tableau Public (dashboard), GitHub Actions (CI).
 
 ## Repo structure
 
@@ -64,6 +77,7 @@ sql/                  numbered analysis queries, run in order
 scripts/
   run_analysis.sh            runs the SQL files in sequence against a local DuckDB file
   generate_sample_data.py    regenerates the CI fixture in data/sample/
+  churn_model.py              optional multivariate logistic regression follow-up
 analysis/
   findings.md              the write-up: question, finding, recommendation, caveats
   executive-summary.md     one-page version for a 30-second skim
@@ -72,4 +86,5 @@ dashboard/
   dashboard-screenshot.png
 .github/workflows/
   ci.yml               runs the pipeline against the sample fixture on every push
+requirements.txt        Python deps for scripts/churn_model.py
 ```
