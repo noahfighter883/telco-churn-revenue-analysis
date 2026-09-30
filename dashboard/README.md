@@ -6,12 +6,16 @@
 
 ## What it shows
 
-Built from the CSVs in `data/processed/` (see [sql/05_export_dashboard_extracts.sql](../sql/05_export_dashboard_extracts.sql)):
+Built from the CSVs in `data/processed/` (see [sql/08_export_dashboard_extracts.sql](../sql/08_export_dashboard_extracts.sql)):
 
 1. **KPI header** — overall churn rate, current MRR, MRR lost to churn (`overview_kpis.csv`)
 2. **Churn by tenure bucket** — bar chart showing churn is highest in the first few months (`churn_by_tenure_bucket.csv`)
 3. **Churn by contract / internet service / payment method** — three small breakdowns side by side, so a viewer can see which single factor correlates most with churn (`churn_by_contract.csv`, `churn_by_internet_service.csv`, `churn_by_payment_method.csv`)
 4. **Revenue at risk by segment** — the main chart: combined segments ranked by projected annual revenue at risk, not raw churn rate — this is the chart that should drive the "where do we act first" conversation (`revenue_at_risk_by_segment.csv`)
+
+Two more analyses exist in the SQL pipeline but aren't charted here (they're tabular, not visual, and belong more in the write-up than a dashboard) — see [analysis/findings.md](../analysis/findings.md):
+- **Significance checks** — are the churn gaps for electronic check and fiber optic real, or could they be noise? (`significance_checks.csv`)
+- **Retention ROI scenario** — what would it cost to run a retention campaign on the top segment, and at what point does it pay for itself? (`retention_roi_scenario.csv`)
 
 ## Building the Tableau Public version
 
@@ -67,4 +71,4 @@ Data source: `revenue_at_risk_by_segment.csv`
 
 ## Screenshot
 
-[add a screenshot here once built, e.g. `![dashboard](dashboard-screenshot.png)`]
+![dashboard](dashboard-screenshot.png)

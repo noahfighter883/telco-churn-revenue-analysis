@@ -1,5 +1,5 @@
 tenure_bucket,customers,churned,churn_rate_pct,sort_key
-13-24 months,1024,294,28.7,13
 0-3 months,1062,597,56.2,0
 4-12 months,1124,440,39.1,4
+13-24 months,1024,294,28.7,13
 25+ months,3833,538,14.0,25

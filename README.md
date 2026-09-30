@@ -13,10 +13,13 @@ Churn is the single biggest lever in a subscription business — losing a custom
 ## Approach
 
 1. **`sql/01_load_sources.sql`** — load the raw CSV into DuckDB as a view
-2. **`sql/02_churn_overview.sql`** — overall churn rate, current MRR, MRR already lost to churned customers
-3. **`sql/03_segment_drivers.sql`** — churn rate by contract type, internet service, payment method, and tenure bucket (with a minimum segment size to avoid noisy small-N segments)
-4. **`sql/04_revenue_at_risk.sql`** — quantify MRR at risk in the highest-churn active segments, annualized, ranked by dollar exposure (not just churn %)
-5. **`sql/05_export_dashboard_extracts.sql`** — export final aggregates to `data/processed/` for the dashboard
+2. **`sql/02_data_quality_checks.sql`** — assert the data is what it should be (no duplicate IDs, no invalid categories, nulls only where expected) before trusting anything downstream
+3. **`sql/03_churn_overview.sql`** — overall churn rate, current MRR, MRR already lost to churned customers
+4. **`sql/04_segment_drivers.sql`** — churn rate by contract type, internet service, payment method, and tenure bucket (with a minimum segment size to avoid noisy small-N segments)
+5. **`sql/05_significance_checks.sql`** — chi-square tests on the two most surprising drivers (electronic check, fiber optic) — is the gap real or could it be noise?
+6. **`sql/06_revenue_at_risk.sql`** — quantify MRR at risk in the highest-churn active segments, annualized, ranked by dollar exposure (not just churn %)
+7. **`sql/07_retention_roi_scenario.sql`** — turns the top segment into a spend decision: campaign cost, breakeven success rate, and ROI at a few plausible effectiveness levels
+8. **`sql/08_export_dashboard_extracts.sql`** — export final aggregates to `data/processed/` for the dashboard
 
 Run all of it with:
 
@@ -54,4 +57,5 @@ analysis/
   findings.md         the write-up: question, finding, recommendation, caveats
 dashboard/
   README.md           dashboard description + Tableau Public link
+  dashboard-screenshot.png
 ```

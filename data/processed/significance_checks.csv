@@ -1,0 +1,3 @@
+comparison,group_n,group_churn_rate_pct,comparison_group_churn_rate_pct,chi2_statistic,critical_value_alpha_0_05,result
+Electronic check vs. all other payment methods,2365,45.3,17.1,642.0,3.841,Significant (p < 0.05)
+Fiber optic vs. all other internet service,3096,41.9,14.5,668.21,3.841,Significant (p < 0.05)

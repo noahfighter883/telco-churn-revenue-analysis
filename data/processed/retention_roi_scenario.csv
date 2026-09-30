@@ -1,0 +1,4 @@
+contract,internet_service,payment_method,active_customers,historical_churn_rate_pct,expected_churners_per_year,campaign_cost,effectiveness_pct,customers_retained,revenue_saved_annual,net_benefit,roi_pct,breakeven_effectiveness_pct
+Month-to-month,Fiber optic,Electronic check,518,60.4,313.0,25900.0,15,47.0,49621.81,23721.81,91.6,7.8
+Month-to-month,Fiber optic,Electronic check,518,60.4,313.0,25900.0,25,78.0,82703.02,56803.02,219.3,7.8
+Month-to-month,Fiber optic,Electronic check,518,60.4,313.0,25900.0,35,109.0,115784.22,89884.22,347.0,7.8

@@ -14,7 +14,7 @@ fi
 mkdir -p data/processed
 
 DB_FILE="analytics.duckdb"
-for f in sql/01_load_sources.sql sql/02_churn_overview.sql sql/03_segment_drivers.sql sql/04_revenue_at_risk.sql sql/05_export_dashboard_extracts.sql; do
+for f in sql/01_load_sources.sql sql/02_data_quality_checks.sql sql/03_churn_overview.sql sql/04_segment_drivers.sql sql/05_significance_checks.sql sql/06_revenue_at_risk.sql sql/07_retention_roi_scenario.sql sql/08_export_dashboard_extracts.sql; do
     echo "== running $f =="
     duckdb "$DB_FILE" < "$f"
     echo
