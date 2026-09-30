@@ -26,9 +26,9 @@ Run all of it with:
 
 ## Dashboard
 
-**Live now (HTML):** [Churn Revenue Risk](https://claude.ai/artifact/GKzGFjvjCnXpR52oUMoPGf)
+**Tableau Public:** [Telco Churn & Revenue at Risk](https://public.tableau.com/app/profile/noah.fighter/viz/TelcoChurnRevenueatRisk/Dashboard1)
 
-**Tableau Public:** [link — add after publishing]
+**HTML version:** [Churn Revenue Risk](https://claude.ai/artifact/GKzGFjvjCnXpR52oUMoPGf)
 
 See [dashboard/README.md](dashboard/README.md) for what it shows and how it was built.
 

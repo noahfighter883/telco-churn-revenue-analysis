@@ -1,8 +1,8 @@
 # Dashboard
 
-**Tableau Public link:** [add after publishing]
+**Tableau Public link:** [Telco Churn & Revenue at Risk](https://public.tableau.com/app/profile/noah.fighter/viz/TelcoChurnRevenueatRisk/Dashboard1)
 
-**HTML version (already live):** [Churn Revenue Risk](https://claude.ai/artifact/GKzGFjvjCnXpR52oUMoPGf) — same charts and numbers, built as an interactive web page. Good to link from the main README while the Tableau version is in progress, or to keep alongside it.
+**HTML version:** [Churn Revenue Risk](https://claude.ai/artifact/GKzGFjvjCnXpR52oUMoPGf) — same charts and numbers, built as an interactive web page.
 
 ## What it shows
 
