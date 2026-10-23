@@ -46,8 +46,6 @@ python3 scripts/churn_model.py
 
 **Tableau Public:** [Telco Churn & Revenue at Risk](https://public.tableau.com/app/profile/noah.fighter/viz/TelcoChurnRevenueatRisk/Dashboard1)
 
-**HTML version:** [Churn Revenue Risk](https://claude.ai/artifact/GKzGFjvjCnXpR52oUMoPGf)
-
 See [dashboard/README.md](dashboard/README.md) for what it shows and how it was built.
 
 ## Findings
